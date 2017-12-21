@@ -16,7 +16,8 @@ This creates a "resized" folder in the specified path, and place dequeezed image
 
 ## Dependencies
 
-```$ pip install pillow
+```
+$ pip install pillow
 ```
 
 
