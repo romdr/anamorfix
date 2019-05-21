@@ -1,4 +1,4 @@
-anamorfix
+anamorfix [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=shazbits_anamorfix&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=shazbits_anamorfix)
 =========
 
 Command line utility to desqueeze anamorphic images from a given folder, and using stretch ratio.
